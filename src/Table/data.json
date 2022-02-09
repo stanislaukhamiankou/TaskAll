@@ -1,0 +1,765 @@
+{
+    "id":"feed/https://www.fca.org.uk/news/rss.xml",
+    "title":"Financial Conduct Authority (FCA)",
+    "updated":1643094637488,
+    "direction":"ltr",
+    "alternate":[
+       {
+          "type":"text/html",
+          "href":"https://www.fca.org.uk/"
+       }
+    ],
+    "items":[
+       {
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e90127bb0:2188107:aa31659c",
+          "fingerprint":"63ddabcc",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"91231",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"FCA publishes guidance consultation for firms who seek to limit their liabilities",
+          "author":"FCA",
+          "crawled":1643094637488,
+          "published":1643094637488,
+          "summary":{
+             "content":"Firms using company or insolvency law to manage their liabilities have been warned they could face assertive action by the FCA if their proposals unfairly benefit them at the expense of their customers.\nThe FCA has seen an increase in the number of firms developing proposals, such as Scheme of Arrangements, to deal with significant liabilities to consumers, in particular redress liabilities.\nIn proposed guidance published today, the FCA has made it clear to firms seeking to limit their liabilities that they should provide the best possible outcome for customers, which will include providing the maximum amount of funding possible to meet compensation claims by customers. Failure to do so could result in the FCA objecting to the firm’s proposals in court. The FCA will also use its regulatory powers, including enforcement actions for misconduct by firms or their senior managers, when appropriate. The FCA has told firms it expects to be informed as soon as a firm is considering a scheme of arrangement or other compromise to manage liability and set out the information it should receive. Some firms have requested a ‘letter of non-objection’ from the FCA in relation to their proposal to manage their liabilities. Today’s guidance consultation confirms that the FCA would be unlikely to ever issue a letter of non-objection. The FCA will instead focus on assessing each proposal on a case-by-case basis to ensure firms are meeting their regulatory obligations, including treating their customers fairly. Following their assessment, the FCA will communicate any concerns to firms, and if necessary the courts, and consider any further regulatory action. Sarah Pritchard, Executive Director of Markets at the FCA, said: 'Under existing company and insolvency law, firms have options to limit their liabilities. When making use of these, they still have a responsibility to treat their customers fairly. We will take action against firms that don’t meet this obligation. The guidance we are consulting on should help firms understand our expectations and ultimately help firms to avoid proposing compromises that are unacceptable to us because they fail to provide the best possible outcome for consumers.' This consultation is open until 1 March 2022 - the FCA welcomes views from all interested parties before its guidance is finalised. Although this is guidance on the circumstances in which the FCA will exercise its existing rules, the FCA welcomes feedback before determining final guidance.\nNotes to editors:\nRead the guidance consultation (pdf)\nSchemes and RPs are court approved agreements between a company and its creditors and/or shareholders under the Companies Act 2006. Creditors vote on it and the court will sanction it. CVAs are governed by the Insolvency Act 1986; creditors will vote on it and the court is notified. There is no court hearing unless the CVA is challenged by a creditor or the FCA.\nThere is no statutory requirement for the FCA to provide non-objection letters.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/press-releases/fca-publishes-guidance-consultation-firms-who-seek-limit-their-liabilities",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/fca-publishes-guidance-consultation-firms-who-seek-limit-their-liabilities",
+          "unread":true,
+          "engagement":1,
+          "engagementRate":0.33
+       },
+       {
+          "language":"en",
+          "fingerprint":"b677cbeb",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e76f4d560:63d754e:9c0c0e19",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"91016",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"FCA review finds evidence of growing competition in retail banking",
+          "author":"FCA",
+          "crawled":1642673263968,
+          "published":1642673263968,
+          "summary":{
+             "content":"Greater competition in retail banking is driving choice and lower prices for consumers and small businesses, despite the financial impact of the pandemic.\nIn an update to its 2018 strategic review of retail banking, the FCA found that, while still strong, there are signs large banks’ historic advantages are starting to weaken, driven by digital innovation and changing consumer behaviour. The economic environment – in particular sustained low interest rates – has also constrained banks’ financial returns. The share of personal and micro-business current accounts held by digital challengers rose between 2020 and 2021, while the largest banks saw their share fall. This trend occurred even as large lenders lent proportionately more to microbusinesses during the pandemic. Evidence suggests that intense competition, partly driven by the increased use of brokers, has benefited mortgage borrowers through lower interest rates, though these make it more difficult for smaller lenders to compete.\nFCA reforms to the credit market are also having an effect, with lenders’ yield – a measure of financial return – for unarranged overdrafts falling sharply in response. Measures put in place by the FCA to support borrowers financially affected by the pandemic also resulted in a drop in yield on authorised overdrafts.\nAdoption of digital innovations by banks and their customers, accelerated by the pandemic, has also improved service quality and satisfaction, particularly for mobile and app-based users. Further improvements through innovation are likely to be enabled by initiatives that allow the sharing of consumer data in secure and convenient ways.\nKate Collyer, Chief Economist at the Financial Conduct Authority, said:\n'Competitive pressures and innovation are starting to deliver for retail banking customers, with greater choice, lower prices and more convenient ways to bank. But changes that may benefit many of us can also be a risk to those in vulnerable circumstances, which is why we have put in place guidance on the closure of branches and ATMs. We are also consulting on a new consumer duty to set higher expectations for the standard of care that firms provide. 'Our research clearly shows the impact of the measures we took to reform the overdraft market and protect those financially affected by Covid.'\nNotes to editors\nStrategic review of retail banking business models\nFCA confirms biggest shake-up to the overdraft market for a generation\nOverdrafts and coronavirus: draft guidance for firms FCA proposes temporary financial relief for customers impacted by coronavirus\nFCA to introduce new Consumer Duty to drive a fundamental shift in industry mindset",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/press-releases/fca-review-evidence-growing-competition-retail-banking",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/fca-review-evidence-growing-competition-retail-banking",
+          "unread":true,
+          "engagement":2
+       },
+       {
+          "fingerprint":"d9e600c0",
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e712d765d:4c57b30:8d31ac5a",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"90981",
+          "recrawled":1642585685031,
+          "updateCount":1,
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"FCA to strengthen financial promotions rules to protect consumers",
+          "author":"FCA",
+          "crawled":1642576311901,
+          "published":1642576311901,
+          "summary":{
+             "content":"The FCA is acting to address concerns about the ease and speed with which people can make high-risk investments by proposing a significant strengthening of its rules on how high-risk financial products are marketed. This is a central element of the FCA's Consumer Investments Strategy, published in September 2021, which aims to give consumers the confidence to invest and reduce the number of people who are investing in high-risk products that are not aligned to their needs.\nUnder the proposed rules, the FCA would ensure firms that approve and communicate financial marketing have relevant expertise and understanding of the investments being offered, improve risk warnings on ads and ban incentives to invest, for example new joiner or refer-a-friend bonuses. Those looking to make certain high-risk investments would also be asked more robust questions about their knowledge and investment experience, after research found many consumers were investing without being aware of the risks.\nThe FCA’s draft rules include proposed restrictions on the marketing of cryptoassets, in preparation for the Government bringing the promotion of these high-risk investments under the FCA’s remit. When it does, the FCA plans to categorise qualifying cryptoassets as ‘Restricted Mass Market Investments’, meaning consumers would only be able to respond to cryptoasset financial promotions if they are classed as restricted, high net worth or sophisticated investors. Firms issuing such promotions would have to adhere to FCA rules, such as the requirement to be clear, fair and not misleading.\nThe FCA is inviting feedback on its proposals by 23 March 2022. It will consider all feedback before determining its final rules and, subject to the responses received, intends to confirm its final rules in summer 2022. \nSarah Pritchard, Executive Director of Markets at the FCA, said: 'Too many people are being led to invest in products they don’t understand and which are too risky for them. People need clear, fair information and proper risk warnings if they are to invest with confidence, which is the central aim of our consumer investments strategy.'\nNotes to editors\nCP22/2:Strengthening our financial promotion rules for high risk investments, including cryptoassets\nThis consultation follows feedback to the FCA’s Discussion Paper, published in April 2021, on Strengthening our financial promotion rules for high-risk investments and firms approving financial promotions.\nMany of the proposed interventions were tested using behavioural research and found to be effective. The FCA has published the findings of that research alongside the CP.\nCryptoasset Consumer Research 2021 – whilst consumer awareness of crypto has risen, understanding of these products has fallen.\nHM Treasury has confirmed it intends to extend the scope of the Financial Promotions Order (FPO) to include qualifying cryptoassets.\nIn December 2021, HM Treasury published a consultation on Financial promotion exemptions for high net worth individuals and sophisticated investors. The proposed reforms aim to reduce the risk that the exemptions are used for promotions to investors who do not meet the conditions.\nIn 2021 the FCA launched its £11 million InvestSmart campaign, targeted online and via social media, and is aimed at helping consumers make better informed investment decisions.\nLater this year, the FCA will revisit whether to extend the scope of its speculative illiquid securities mass-marketing ban.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "type":"text/html",
+                "href":"https://www.fca.org.uk/news/press-releases/strengthen-financial-promotions-rules-protect-consumers"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/strengthen-financial-promotions-rules-protect-consumers",
+          "unread":true,
+          "engagement":1
+       },
+       {
+          "fingerprint":"30ada74d",
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e6ca63a00:4c72ce9:241dd190",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"90881",
+          "recrawled":1642837603393,
+          "updateCount":1,
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"FCA confirms approach to European firms temporarily operating in the UK",
+          "author":"FCA",
+          "crawled":1642500340224,
+          "published":1642500340224,
+          "summary":{
+             "content":"European firms wishing to remain in thetemporary permissions regime (TPR) need tomeetthe FCA’sstandards tocontinue operating in the UK.\nThe regimewas designed to ensurethatEuropeanfirmsoperatingin the UKvia a passportwhen theBrexittransition period endedcouldcontinue operating temporarilywhilethey seekfull authorisationin the UK.\nThe TPRshould only be used by firms who want to operate in the UK in the long-term and meet thestandards to do so.\nFirmsmaybe asked to stop undertaking new business or could beremovedfrom the TPRif they miss their ‘landing slot’, fail to respond to mandatory information requests,have no intention in applying for full authorisation, orif theirauthorisation application is refused.\nTheFCA hasalreadycancelled the temporary permissions of 4 firms,who,despitemultiple opportunities,did not respondto mandatory information requests.\nFirms that have had their permissions cancelled can no longer conduct regulated business in the UK andmay be committing a criminal offence if theydo so.\nEmily Shepperd, Executive Director ofAuthorisationsat the FCA, said:\n'The UK is open for business, but not to firms who do not meetourregulatory expectations. We expectfirmsoperating under the regimeto be responsive to our requestsfor information,andthat arecoherent in their business planning. We will continue to act against firms that fail to meet our standards.'\nNotes to editors\nWebpage aboutTPR firms that do not meet our expectations\nFinal notice in relation toArumpro Capital Limited\nFinal notice in relation toEsfera Capital, Agencia de Valores, S.A.\nFinal notice in relation toEvest Limited\nFinal notice in relation toINZMO Europe GmbH",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "type":"text/html",
+                "href":"https://www.fca.org.uk/news/press-releases/fca-confirms-approach-european-firms-temporarily-operating-uk"
+             }
+          ],
+          "visual":{
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png"
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/fca-confirms-approach-european-firms-temporarily-operating-uk",
+          "unread":true
+       },
+       {
+          "fingerprint":"850ff6b",
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e64a065c6:3c7f3b6:241dd190",
+          "keywords":[
+             "Statements"
+          ],
+          "originId":"90846",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"Statement from Nikhil Rathi on Lord Myners",
+          "author":"FCA",
+          "crawled":1642365740486,
+          "published":1642365740486,
+          "summary":{
+             "content":"Following news of the death of Lord Myners, Nikhil Rathi, Chief Executive of the FCA, issued the following statement on the organisation’s behalf:\n'I am saddened to hear about the death of Lord Myners. I had the privilege to work closely with Paul during the financial crisis and saw at first hand his ability to quickly grasp the enormity of the situation and navigate the whole system towards decisive solutions.He always expressed his views frankly and in my most recent discussions with him he continued to be motivated by the need to ensure the integrity of the financial system. I always appreciated his support and I offer my sincere condolences to his family.'",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "type":"text/html",
+                "href":"https://www.fca.org.uk/news/statements/statement-nikhil-rathi-lord-myners"
+             }
+          ],
+          "visual":{
+             "contentType":"image/jpeg",
+             "url":"https://www.fca.org.uk/sites/default/files/images/fca-logo-social-media.jpg",
+             "processor":"feedly-nikon-v3.1",
+             "width":400,
+             "height":400
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/statements/statement-nikhil-rathi-lord-myners",
+          "unread":true
+       },
+       {
+          "language":"en",
+          "fingerprint":"15a52426",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e534e7fa6:1a6ac0b:9c0c0e19",
+          "keywords":[
+             "Statements"
+          ],
+          "originId":"90721",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"Supervisory flexibility on the short selling indicator",
+          "author":"FCA",
+          "crawled":1642075160486,
+          "published":1642075160486,
+          "summary":{
+             "content":"We are putting in place temporary measures for the reporting of the short selling indicator in transaction reports while we consider changes to the UK transaction reporting regime.\nTransaction reports submitted to the FCA under UK MiFIR must contain a designation to identify a short sale. This information is contained in the short selling indicator (RTS 22, field 62).\nWe are in the early stages of considering policy options for the UK MiFIR transaction reporting regime, including, but not limited to, the future of the short selling indicator. We have received questions from firms regarding the requirement in Article 26(7) of UK MiFIR to correct errors and omissions in the short selling indicator field and resubmit affected transaction reports. Until the future of the short selling indicator field (for the purposes of the UK MiFIR transaction reporting regime) has been determined, we will not take action against firms who do not meet these requirements. We do not expect firms to notify us about issues affecting the short selling indicator field through an errors and omissions notification form. We will keep this position under review.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/statements/supervisory-flexibility-short-selling-indicator",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/statements/supervisory-flexibility-short-selling-indicator",
+          "unread":true
+       },
+       {
+          "language":"en",
+          "fingerprint":"4da1f15b",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e4d68bd2d:d04607:9c0c0e19",
+          "keywords":[
+             "Statements"
+          ],
+          "originId":"90416",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"FCA has decided to register the first UK securitisation repositories",
+          "author":"FCA",
+          "crawled":1641976216877,
+          "published":1641976216877,
+          "summary":{
+             "content":"The Financial Conduct Authority (FCA) announces that it has completed its assessment of applications received from European DataWarehouse Ltd and SecRep Limited as Securitisation Repositories (SRs) under the UK Securitisation Regulation and has decided to register both entities with effect from 17 January 2022.\nThe obligation to report public securitisations within the scope of the UK Securitisation Regulation to a SR that is registered and supervised by us will apply from 17 January 2022.\nThe FCA continues to encourage reporting entities to complete all necessary preparatory measures to comply with their reporting obligations to a SR. Firms registered as UK SRs will be included on the Financial Services Register.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/statements/fca-register-first-uk-securitisation-repositories",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/statements/fca-register-first-uk-securitisation-repositories",
+          "unread":true
+       },
+       {
+          "fingerprint":"ca2ea916",
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e47f86bf2:145ca6:241dd190",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"90516",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"FCA to review competition concerns in wholesale data markets",
+          "author":"FCA",
+          "crawled":1641884969970,
+          "published":1641884969970,
+          "summary":{
+             "content":"The FCA will launch 2 market studies and gather further information to investigate access to wholesale data. In response to a call for input, the FCA heard concerns that limited competition in the markets for benchmarks and indices, credit ratings and trading data may increase costs for investors and affect investment choices.\nIn a market study to begin this summer, the FCA will look into concerns that complex contracts for benchmarks and indices prevent switching to cheaper, better quality or more innovative alternative providers. Benchmarks and indices are used by market participants like asset managers, banks and clearing houses to track and evaluate asset prices and investment performance.\nBy the end of the year, the FCA will launch a second market study to assess whether high charges for access to credit ratings data is adding costs to investors and limiting new market entrants. Access to high-quality credit ratings helps investment managers assess financial risk, influencing which investments they make.\nThe FCA will also now begin gathering further information on competition in the market for wholesale trading data. Trading data include information on how many financial instruments are being traded, what people are prepared to pay for them and the price at which trades are executed. These data are supplied by venues – like stock exchanges – where these financial instruments are bought and sold. Concerns have been raised that limited competition may increase costs and have an impact on the types of assets that investment managers buy and sell.\nAccess to wholesale data allows market participants who manage investments to identify and evaluate investment opportunities. A lack of competition could affect the quality of wholesale data and mean increased costs for investors, including, ultimately, pension savers.\nEffective competition is central to ensuring markets work well and is at the heart of the FCA’s wholesale strategy. To identify potential issues in the markets it regulates, the FCA can use one of its deepest analytical tools – the market study – to look more closely into these markets.\nSheldon Mills, Executive Director, Consumers and Competition at the FCA, commented:\n'Access to wholesale data is really important for those who want to make investment decisions. Without it, they lack the information they need to make properly informed choices. Our Call for Input and planned market studies are intended to ensure that competition is working well, that information is available to market participants that want it, and that innovation is keeping up with market developments.'\nNotes to editors\nFeedback statement\nCall for input",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "type":"text/html",
+                "href":"https://www.fca.org.uk/news/press-releases/review-competition-concerns-wholesale-data-markets"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/review-competition-concerns-wholesale-data-markets",
+          "unread":true,
+          "engagement":3
+       },
+       {
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e34f946d6:3e6a57:7204e97d",
+          "fingerprint":"9b55ba7d",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"90421",
+          "recrawled":1641566686196,
+          "updateCount":1,
+          "origin":{
+             "title":"Financial Conduct Authority (FCA)",
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"FCA commences criminal proceedings in relation to Collateral (UK) Ltd",
+          "author":"FCA",
+          "crawled":1641566258902,
+          "published":1641566258902,
+          "summary":{
+             "content":"The FCA has commenced criminal proceedings against the 2 former directors of Collateral (UK) Ltd (Collateral), Peter Currie and Andrew Currie, who each face 2 charges under the Fraud Act 2006 and 1 charge under the Proceeds of Crime Act 2002.\nThe FCA alleges that the Curries, who are brothers, dishonestly represented to investors that Collateral was authorised and regulated by the FCA to operate as a peer-to-peer lender knowing this was untrue.\nIt is further alleged that shortly after Collateral was asked by the FCA to cease conduct of all regulated activities in January 2018 and shortly before the company ceased trading, the brothers dishonestly abused their positions by transferring funds to a separate company and, in addition, transferred further sums that they knew or suspected were the proceeds of crime into the bank accounts of Andrew Currie.\nCollateral is insolvent and is now in liquidation.\nPeter and Andrew Currie are due to appear at Westminster Magistrates Court on 26 January 2022.\nNotes to editors\nPeter Currie (DOB 14/04/1964); Andrew Currie (DOB 29/07/1965).\nOn 28 February 2018, Collateral purported to appoint an administrator. On 27 April 2018, on the FCA’s application, the High Court ruled that this appointment was invalid and appointed alternative administrators proposed by the FCA. Collateral has subsequently been put into liquidation.\nThe charges faced by Peter and Andrew Currie are fraud by false representation, contrary to sections 1 and 2 of the Fraud Act 2006; fraud by abuse of position, contrary to sections 1 and 4 of the Fraud Act 2006; and converting criminal property, contrary to section 329 of the Proceeds of Crime Act 2000.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/press-releases/criminal-proceedings-collateral-uk-ltd",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/criminal-proceedings-collateral-uk-ltd",
+          "unread":true
+       },
+       {
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e340fa704:275783:2c03cbeb",
+          "fingerprint":"7b1e1fb9",
+          "keywords":[
+             "News stories"
+          ],
+          "originId":"90406",
+          "recrawled":1641559872994,
+          "updateCount":1,
+          "origin":{
+             "title":"Financial Conduct Authority (FCA)",
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"Ounapuu Ltd (formerly Ferratum UK Limited) enters a Creditors’ Voluntary Liquidation",
+          "author":"FCA",
+          "crawled":1641550948100,
+          "published":1641550948100,
+          "summary":{
+             "content":"On 31 December 2021 Ounapuu Ltd, formerly trading as Ferratum UK, was placed into a Creditors’ Voluntary Liquidation. Paul Boyle, David Clements and Anthony Murphy of Harrisons Business Recovery &amp; Insolvency (London) Limited were appointed as Joint Liquidators. The firm’s name was changed from Ferratum UK Limited to Ounapuu Ltd on 4 November 2021.\nOunapuu Ltd (formerly Ferratum UK Limited) is a high-cost short-term, or payday, lender. It lent money to customers for up to 4 months. All existing loan agreements remain in place, although the firm is no longer able to issue new loans.\nThe Liquidators will provide updates to customers as soon as possible.\nIf you have any questions in the meantime about your loan, contact Ounapuu Ltd (formerly Ferratum UK) customer support team on 0151 8081372or by email at:customercare@ounapuu.co.uk\nWe are in close contact with the firm and the Liquidators regarding the fair treatment of customers.\nCustomers who are struggling financially can get free and impartial guidance from MoneyHelper.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/news-stories/ounapuu-ltd-formerly-ferratum-uk-limited-enters-creditors-voluntary-liquidation",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/news-stories/ounapuu-ltd-formerly-ferratum-uk-limited-enters-creditors-voluntary-liquidation",
+          "unread":true
+       },
+       {
+          "fingerprint":"184bc138",
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e2568f8f1:6bc7b1e:241dd190",
+          "keywords":[
+             "News stories"
+          ],
+          "originId":"90181",
+          "recrawled":1641308134082,
+          "updateCount":1,
+          "origin":{
+             "title":"Financial Conduct Authority (FCA)",
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"Changes to LIBOR as of end-2021",
+          "author":"FCA",
+          "crawled":1641305143537,
+          "published":1641305143537,
+          "summary":{
+             "content":"Publication of 24 LIBOR settings has ended, and the 6 most widely used sterling and Japanese yen settings will be published using a changed methodology from today.\nThe LIBOR settings that have ended are:\nall euro and Swiss franc LIBOR settings\nthe overnight / spot next, 1-week, 2-month and 12-month sterling and Japanese yen LIBOR settings\nthe 1-week and 2-month US dollar LIBOR settings\nThe 1, 3 and 6 month sterling and Japanese yen LIBOR settings are Article 23A benchmarks, meaning they are now permanently unrepresentative of the underlying market they seek to measure. This is because the panel of banks, which used to provide submissions to create these rates, has now ended.\nFrom today, these 6 LIBOR settings will be calculated in a way that does not rely on submissions from panel banks. Market participants generally call this 'synthetic' LIBOR. We have published a Notice requiring LIBOR’s administrator to change the way these LIBOR settings are calculated, in line with the draft Notice we published in September 2021.\nWe have also published a Notice allowing use of these synthetic rates in all legacy contracts except cleared derivatives. This aligns with the draft Notice we published in November 2021. In the sterling, Japanese yen, Swiss franc and euro LIBOR derivative markets, cleared contracts were converted to risk-free rates towards the end of 2021. Most uncleared derivative contracts in these currencies will also start using risk-free rates from today, under industry-agreed fallback language adopted through the ISDA protocol. The protocol is still open for adherence for any firm that hasn’t yet done so.\nSynthetic yen LIBOR will cease at the end of 2022. Availability of synthetic sterling LIBOR is not guaranteed beyond end-2022, so firms’ efforts to transition away from it should continue. We also remind market participants that new use of synthetic LIBOR is banned.\nThe remaining 5 US dollar LIBOR settings will continue to be calculated using panel bank submissions until mid-2023. However, new use of US dollar LIBOR is also now banned, with limited exceptions. The US dollar risk-free rate SOFR is already being widely used in new business. Firms should now focus on converting their legacy US dollar LIBOR contracts by mid-2023.\nWe will continue to monitor the impact of these changes, and the progress of remaining transition work, working closely with the Bank of England and our international counterparts.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/news-stories/changes-libor-as-of-end-2021",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/news-stories/changes-libor-as-of-end-2021",
+          "unread":true,
+          "engagement":1
+       },
+       {
+          "fingerprint":"381fc9fa",
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e1045ac33:405246d:7204e97d",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"90091",
+          "origin":{
+             "title":"Financial Conduct Authority (FCA)",
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"Highlights of the FCA’s new approach in 2021",
+          "author":"FCA",
+          "crawled":1640950508595,
+          "published":1640950508595,
+          "summary":{
+             "content":"The Financial Conduct Authority’s (FCA) mission is to protect consumers from harm, enhance the integrity of the UK’s financial system and promote competition.\nThe regulator is continuing to pursue these objectives while also working to become a more innovative, adaptive and assertive regulator. This approach will enable the FCA to meet the challenges of the increasingly data-driven financial services sector in the UK, the shift to a net-zero economy, the continuing effects of the pandemic, and help build a new regulatory regime after Brexit.\nProtecting consumers\nIn January, the Supreme Court delivered its judgment in a case brought by the FCA to clarify business interruption insurance cover. Since then, over £1.2bn has been paid out to settle claims made by small businesses.\nThe FCA has innovated to better protect consumers by providing information so they can make improved financial decisions. The FCA launched its £11m InvestSmart campaign in October, targeting its ‘don’t get played’ message at younger, higher-risk investors. The campaign saw the FCA release its first TikTok video and Instagram live session. InvestSmart forms part of the FCA’s new consumer investment strategy, which is designed to give consumers greater confidence to invest and to help them do so safely. The strategy’s measures include exploring changes to make it easier for consumers to invest in straightforward financial products, more assertive action to disrupt investment scams and strengthening rules around financial marketing. The FCA has taken away approval to undertake financial services from 176 firms, which have not carried on regulatory activity in the last 12 months. The FCA’s ‘use it or lose it’ approach is designed to protect consumers who may be misled about the level of protection they have when buying products from firms that do not need to be authorised by the FCA. The FCA has also continued to alert the public to scams, with a record 1,300 warnings issued over the past year. The FCA released its first jingle, to remind consumers to check lenders are genuine to avoid being scammed by fraudsters who charge a fee for a loan that never materialises.\nThe FCA’s contact centre has this year prevented £4m being lost to scams. Additionally, the FCA has secured £5m to be paid back to people who invested in companies that were not authorised to undertake financial activity. A further £28.5m has been frozen due to FCA action to be paid back to investors, subject to the outcome of legal action.\nThroughout 2021, the FCA has engaged social media platforms and search engines to help ensure they comply with laws to protect people from scams and high-risk investments. As a result, Google has made changes to its policies to ensure that any financial advertiser has to be authorised by the FCA. The FCA has also called on Government to include paid-for advertising in the Online Safety Bill and pushed for changes to the regulation of crypto-assets. In addition, the FCA has continued to challenge crypto asset firms who require registration for money laundering purposes. Nearly 90% of those firms have been refused or withdrawn their application as a result of FCA action.\nThe FCA began consulting on a new consumer duty to introduce a higher and more consistent standard of consumer protection for financial services consumers by July 2022. Guidance published in February also set out how firms should better protect customers in vulnerable circumstances when they design their products, market and explain them, and in the support they provide to their customers when things go wrong.\nAs the economy and consumers continue to adapt to the pandemic, the FCA has kept its guidance on how lenders should fairly treat impacted consumers under review. The FCA has reduced the financial burden on 4.5m of mortgage and credit customers by working with the industry to provide payment holidays during the Covid crisis. As a result of FCA action, 6 firms stopped providing regulated debt advice and the FCA has proposed to ban the referral fees debt packagers can receive in order to protect consumers who need help managing their debt.\nEnhancing the integrity of the UK’s financial system\nThe FCA has continued to act to protect and enhance the integrity of the UK financial system, early this month NatWest was fined £264m, in the FCA’s first ever criminal prosecution under anti-money laundering legislation. In total FCA actions has resulted in financial organisations in the UK being fined £568m in 2021, including £147m against Credit Suisse and £63.9m against HSBC. The FCA has also taken action against individuals for insider dealing, non-financial misconduct and carrying out regulated activities without authorisation. Beside enforcement cases, the FCA has also varied a firm or individuals’ permissions over 100 times in 2021.\nTo ensure quicker action to protect consumers, the FCA reformed its decision-making processes in November. These changes include allowing senior managers to take the call on a firm’s authorisation, whether to impose requirements or begin criminal or civil proceedings.\nThe FCA is also applying standards more robustly when authorising firms. In the year to 2 December 2021, 1 in 5 firms (up from 1 in 6 when we last reported) which applied for authorisation were refused, rejected or withdrew their application after discussions with us. Newly authorised financial firms will benefit from additional support following a pilot run by the FCA over the last year. When fully rolled out in 2022, this early oversight, with regular contact from the FCA, will help ensure firms treat their customers fairly during the crucial early years of their development. The FCA has continued to take a leading role on environmental, social and governance issues. It published a new strategy in November and began a discussion on how investment products should be labelled to give consumers confidence to invest. It also introduced new rules and guidance for listed companies and asset managers on climate-related disclosures.\nA partnership of the FCA, the Bank of England and international regulators, has taken the final steps to phase out LIBOR, an interest rate benchmark used in financial contracts worth trillions of pounds. Firms have been supported to transition to new, risk-free alternatives to LIBOR by the end of 2021. Commercial lending linked to SONIA, the new risk-free rate for sterling, now exceeds £100 billion.\nAs part of its on-going transformation, the FCA has set out innovative, ambitious plans for its use of data. The approach will mean the FCA collects data better and uses algorithms to identify risks to consumers or markets more quickly. The FCA will further leverage on our digital listening tools help us collect data on everything from mortgages and investments to fraud and scams. For example, analysis of social media combined with the FCA regulatory data showed small businesses were struggling to make claims on business interruption insurance policies, demonstrating the need for FCA action. Promoting competition\nIn rules that take effect from 1 January 2022, the FCA is tackling the loyalty penalty in home and motor insurance. The FCA found the practice of increased renewal prices for existing customers – known as price walking – was distorting the market and limiting competition. The new measures will save consumers £4.2bn over 10 years.\nIn December, the FCA confirmed changes to its listing rules to help maintain the UK’s market’s reputation for dynamism by supporting new types of companies seeking investment. The changes will help drive economic growth by encouraging private companies to consider listing on the stock market at an earlier stage. This means more investors will be able to share in the growth of these companies, increasing their investment choices.\nThe FCA has enhanced its world-leading regulatory sandbox, which allows businesses to safely test innovative products or services. The sandbox is now accepting applications on rolling basis rather than firms having to wait for application windows as they previously had to. This will support innovative firms by allowing them to test their ideas at the right point of their development.\nNikhil Rathi, Chief Executive of the FCA, said:\n'The FCA has protected customers, enhanced the integrity of the UK’s financial system and promoted competition this year, despite the additional challenges of the pandemic. We have reformed the general insurance market, saving consumers £4.2bn over 10 years, led the transition from LIBOR and helped small businesses claim £1.2bn against business interruption insurance cover. We are looking forward to using our innovative, adaptive and assertive approach to achieve even more for consumers and the financial market next year.'\nNotes to editors\nAn infographic of key figures is available here.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/press-releases/highlights-fca-new-approach-2021",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/highlights-fca-new-approach-2021",
+          "unread":true,
+          "engagement":1
+       },
+       {
+          "language":"en",
+          "fingerprint":"beaabb69",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e0a9496f0:3c8cf36:2c03cbeb",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"90046",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"New year delivers fairer home and motor insurance renewals",
+          "author":"FCA",
+          "crawled":1640855017200,
+          "published":1640855017200,
+          "summary":{
+             "content":"From 1 January insurers will be banned from quoting customers a higher price for renewing their home or motor insurance than they would pay if they were a new customer.\nThe new rules brought in by the FCA are expected to save consumers £4.2bn over the next 10 years.\nThe FCA’s reforms follow a review that uncovered that many insurers were increasing prices for renewing customers year-on-year – a practice known as price walking.\nAs well as leading to higher prices for loyal customers, price walking distorted the way the whole insurance market worked. Many firms offered below-cost prices to attract new customers, who then paid more over time if they renewed their insurance. Insurers used sophisticated processes to target their best deals at customers who they thought were less likely to switch in future.\nSheldon Mills, Executive Director, Consumers and Competition at the FCA, commented:\n‘Our interventions will make the insurance market fairer and make it work better. Insurers can no longer penalise consumers who stay with them. You can still shop around and negotiate a better deal, but you won't have to switch just to avoid being charged a loyalty premium.\n‘We are keeping a close eye on how insurers respond to our new rules, to ensure that the benefits of a better insurance market are delivered to consumers.’\nThe FCA’s package of reforms coming into effect in January also includes new rules to give consumers easier methods of cancelling the automatic renewal of their policy, and to require insurance firms to demonstrate that their products deliver fair value to customers.\nNotes to editors FCA Policy Statements on general insurance pricing practices. The pricing rules come into effect on 1 January, and apply to renewal notices going out after this point. If a consumer’s renewal notice went out in December and their policy renews after 1 January, the rules would not apply. Any firms that are unable to implement the technical changes required to comply with the new rules before 17 January will need to ensure that consumers do not lose out as a result.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/press-releases/new-year-delivers-fairer-home-motor-insurance-renewals",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/new-year-delivers-fairer-home-motor-insurance-renewals",
+          "unread":true,
+          "engagement":1
+       },
+       {
+          "fingerprint":"abf88584",
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17e063dd7c9:2f43321:7204e97d",
+          "keywords":[
+             "Statements"
+          ],
+          "originId":"90031",
+          "recrawled":1642837603393,
+          "updateCount":1,
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"Update for firms on PRIIPs RTS Article 18 and related rules",
+          "author":"FCA",
+          "crawled":1640782223305,
+          "published":1640782223305,
+          "summary":{
+             "content":"Addendum – 21 January 2022\nWe clarify that UCITS schemes can only provide the UCITS KIID and to introduce a reference to NURS.\nAs part of the Financial Services Act 2021, Parliament legislated to extend the Undertakings for the Collective Investment in Transferable Securities (UCITS) exemption in the Packaged retail investment and insurance products (PRIIPs) Regulation (as enacted in retained EU law) by 5 years – from 31 December 2021 to 31 December 2026. This extension means that UCITS funds offered to UK retail investors must continue to supply a UCITS key investor information document (KIID). We intend to make consequential amendments to the UK PRIIPs Regulatory Technical Standards and the associated Handbook guidance to reflect the new end date of the UCITS exemption in the UK’s PRIIPs Regulation. We will make the required consequential amendments to: Article 18 of the PRIIPs Regulatory Technical Standards onshored via the Commission Delegated Regulation (EU) 2017/653 legislation\nCOLL 4.7.1A G (1)(b)\nCOBS 13.1.1B G (1) and (2)\nThis statement intends to give certainty until the date the amendments to the Regulatory Technical Standards and the Handbook Guidance take effect. We do not propose to take enforcement action against firms for breach of Article 14(1) if they provide the following disclosure in accordance with Article 14(2):\nA UCITS scheme supplying a UCITS KIID\nA non-UCITS retail scheme supplying either a NURS-KII document or a PRIIPs KID. A NURS may meet the requirement to draw up key information under the rules in COLL 4.7 with either a NURS-KII document or a PRIIPs KID",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "type":"text/html",
+                "href":"https://www.fca.org.uk/news/statements/update-firms-priips-rts-article-18-related-rules"
+             }
+          ],
+          "visual":{
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png"
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/statements/update-firms-priips-rts-article-18-related-rules",
+          "unread":true
+       },
+       {
+          "language":"en",
+          "fingerprint":"d5b2fe24",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17de663db7f:48691d4:7204e97d",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"89761",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"FCA publishes Decision Notice against hedge fund for conflicts of interest failings",
+          "author":"FCA",
+          "crawled":1640247843711,
+          "published":1640247843711,
+          "summary":{
+             "content":"The Financial Conduct Authority has published a Decision Notice against BlueCrest Capital Management (UK) LLP (BCMUK) setting out its decision to impose a financial penalty of £40,806,700 on the firm.\nBCMUK has elected to refer the case directly to the Upper Tribunal which will determine the appropriate action, if any, for the FCA to take.\nThe FCA considers that, between 1 October 2011 and 31 December 2015, BCMUK failed to manage fairly a conflict of interest created by allocating portfolio managers working on an external fund, open to investors outside BlueCrest, to an internal fund, open only to its partners and employees. The FCA found that BCMUK’s systems and controls did not manage the risk that portfolio managers could be allocated in a way that favoured investors in the internal fund over those of the external fund. This resulted in a sub-standard investment management service being provided to the external fund and its investors.\nThe findings in the Decision Notice are provisional and only reflect the FCA’s views at this stage since BCMUK has yet to make representations. (See Note to editors 9)\nThe FCA has also decided to impose a requirement on BCMUK to pay redress to clients who have suffered loss as a result of its failings. This decision has also been referred by BCMUK to the Tribunal for determination.\nNotes to editors\nThe Decision Notice (PDF)\nFind out more information about theUpper Tribunal(Tax and Chancery Chambers).\nOn 8 December 2020 the SEC announced that, without admitting or denying the SEC's findings, BlueCrest Capital Management Limited had agreed to settle charges arising from inadequate disclosures, materials misstatements, and misleading omissions concerning its transfer of traders between two of its funds.\nOn 2 November 2021 the SEC issued its proposed plan of distribution to compensate US investors for management fees paid in connection with investments in BlueCrest Capital International Master Fund Limited’s two unregistered feeder funds, BlueCrest Capital International Limited and BlueCrest Capital L.P., between October 1, 2011 and December 31, 2015, inclusive.\nThe FCA would like to thank the SEC for their assistance in this matter.\nFor the avoidance of doubt, the redress requirement imposed by the FCA seeks to redress Non-US Investors.\nThe FCA’sPrinciples for Businesses.\nFind out more informationabout the FCA.\nBCMUK has used the expedited reference procedure which enables BCMUK to challenge both the Decision Notice and the redress requirement before the Tribunal without engaging the FCA’s prior internal decision-making process through the Regulatory Decisions Committee. The findings in the Decision Notice are therefore provisional and reflect the FCA’s view as to what occurred and how it considers BCMUK’s behaviour should be characterised, but are without it having received representations from BCMUK in response to its Warning Notice.\nThe Upper Tribunal will determine, in the case of the decision to impose the Decision Notice, what, if any, is the appropriate action for the FCA to take, and will remit the matter to the FCA with such directions as the Upper Tribunal considers appropriate to give effect to its determination.\nIn respect of the redress requirement, the Tribunal will determine whether to dismiss the reference or remit it to the FCA with a direction to reconsider and reach a decision in accordance with the findings of the Upper Tribunal. The Upper Tribunal's decisions will be made public on its website. Accordingly, the findings in the Decision Notice and the redress requirement remain provisional and the proposed action outlined in the Decision Notice as well as the separate redress requirement will not take effect pending the determination of the Tribunal.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "type":"text/html",
+                "href":"https://www.fca.org.uk/news/press-releases/fca-publishes-decision-notice-hedge-fund-conflicts-interest-failings"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/fca-publishes-decision-notice-hedge-fund-conflicts-interest-failings",
+          "unread":true
+       },
+       {
+          "fingerprint":"443e8549",
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17de2a2befd:48afd2f:241dd190",
+          "keywords":[
+             "Press Releases"
+          ],
+          "originId":"89941",
+          "origin":{
+             "title":"Financial Conduct Authority (FCA)",
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"Craig Whyte appears at court for failing to provide key passwords for seized devices",
+          "author":"FCA",
+          "crawled":1640184856317,
+          "published":1640184856317,
+          "summary":{
+             "content":"In a prosecution brought by the Financial Conduct Authority (FCA), Craig Whyte has been charged with failing to provide passwords for various laptops and phones.\nMr Whyte appeared today at Manchester and Salford Magistrates’ Court, having been arrested at Manchester Airport yesterday at the request of the FCA by officers from Greater Manchester Police.\nThe arrest is in relation to non-disclosure of key passwords for various laptops and phones, which were seized from him by a warrant issued under s176 Financial Services &amp; Markets Act 2000 on the 18 April 2018.\nMr Whyte was charged with failing to comply with a Statutory Notice issued under Section 49 Regulation of Investigatory Powers Act 2000 (RIPA 2000). This is the first prosecution by the FCA in relation to this offence.\nMr Whyte has indicated a plea of not guilty and elected for trial in the Crown Court. Mr Whyte was granted conditional bail.\nNotes to editors\nCraig Whyte’s date of birth: 18/01/1971\nNo assumption should be made at this stage that a criminal offence has been committed.\nA person is guilty of an offence under s.53 of RIPA if they knowingly fail, in accordance with the notice, to make the disclosure required by virtue of the giving of the notice (in this case failing to provide pin numbers and passwords to several digital devices). The appropriate maximum term of imprisonment is two years.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "type":"text/html",
+                "href":"https://www.fca.org.uk/news/press-releases/craig-whyte-appears-court-failing-provide-key-passwords-seized-devices"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/press-releases/craig-whyte-appears-court-failing-provide-key-passwords-seized-devices",
+          "unread":true
+       },
+       {
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17de0f5836e:45aaa1d:2c03cbeb",
+          "fingerprint":"46188b77",
+          "keywords":[
+             "Statements"
+          ],
+          "originId":"89871",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"FCA statement on British Steel Pension Scheme Redress",
+          "author":"FCA",
+          "crawled":1640156726126,
+          "published":1640156726126,
+          "summary":{
+             "content":"The FCA’s Board has asked for a consultation to be prepared on a redress scheme, under s404 of the Financial Services and Markets Act, for former members of the British Steel Pension Scheme (BSPS) who transferred their pension.\nSubject to final approval of the consultation documents by its Board, the FCA expects to consult by the end of March 2022 having gathered further evidence and following engagement with stakeholders.\nA redress scheme would be limited to BSPS transfer advice. BSPS is a highly exceptional case with the FCA’s analysis indicating significantly more unsuitable advice (47%) than observed in reviews of higher-risk firms in non-BSPS cases (17%).\nIn a letter sent today, the FCA has set out its expectation that firms in the scope of a potential redress scheme should retain assets and should not try to avoid their responsibilities.\nThe FCA has warned it will take such action as it deems necessary if a firm attempts to avoid redress liabilities.\nFormer BSPS members should continue to check whether they received unsuitable advice and find out how to complain at fca.org.uk/bsps.\nFirms should continue to progress any existing FCA required Past Business Reviews and engage in any ongoing enforcement investigations or supervisory work connected to the British Steel Pension Scheme.\nNotes to editors\nThe FCA has also set out expectations of firms who gave advice to BSPS members between 1 March 2017 to 31 March 2018 a Dear CEO letter issued today.\nUntil a restructuring in 2018, many members were advised to transfer their assets from the BSPS's defined benefit scheme into a personal pension.\nThe FCA has run a range of activity to support former BSPS members, including writing to 7,700 former BSPS members, and with regulatory partners, holding face to face events for former members in South Wales and Scunthorpe.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/statements/british-steel-pension-scheme-redress",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/statements/british-steel-pension-scheme-redress",
+          "unread":true,
+          "engagement":67
+       },
+       {
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17dddd5ad66:3f457a9:2c03cbeb",
+          "fingerprint":"3d87122c",
+          "keywords":[
+             "News stories"
+          ],
+          "originId":"89811",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"Viola Money (Europe) Limited enters administration",
+          "author":"FCA",
+          "crawled":1640104308070,
+          "published":1640104308070,
+          "summary":{
+             "content":"Viola Money (Europe) Limited (Viola) is an authorised electronic money institution, authorised by the FCA under the Electronic Money Regulations 2011 (EMRs).\nOn 21 December 2021, a special administration order was made by the Court in relation to Viola under the Payment and Electronic Money Institution Insolvency Regulations 2021 and Edward George Boyle and James Robert Bennett of Interpath Advisory have been appointed as joint special administrators. The special administration process includes provisions to facilitate the return of customer funds by the special administrators.\nThe application for the special administration was made by the FCA and follows requirements imposed on Viola on 14 December 2021, which required it to cease all regulated electronic money and payment services. These requirements were imposed because we identified a number of serious concerns around the way that Viola operated its business and prevented the firm from dealing on behalf of its clients. Viola’s special administrators are responsible for managing claims against the firm and distributing funds back to customers where possible. The special administrators are required to provide a report to creditors within 8 weeks of their appointment which will include details of their proposals and how customers should make a claim.\nIf you have any questions regarding the special administration process, please refer to the special administrators’ website which answers a number of frequently asked questions or contact the special administrators directly by email or telephone. \nJoint special administrators contact details:\nWebsite:Interpath Advisory\nEmail: Vmoney@interpathadvisory.com\nTelephone: +44 (0) 203 989 2733.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/news-stories/viola-money-europe-limited-enters-administration",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/news-stories/viola-money-europe-limited-enters-administration",
+          "unread":true
+       },
+       {
+          "fingerprint":"a70b1235",
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17ddc7712d8:3b3eafe:241dd190",
+          "keywords":[
+             "Statements"
+          ],
+          "originId":"89751",
+          "recrawled":1642837603393,
+          "updateCount":1,
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"10% depreciation notifications: further extension of temporary measures for firms",
+          "author":"FCA",
+          "crawled":1640081330904,
+          "published":1640081330904,
+          "summary":{
+             "content":"Since March 2020 we have adopted temporary measures on the requirement for firms to issue 10% depreciation notifications to investors (COBS 16A.4.3 UK).\nUpdate 21 January 2022\nThe obligation to inform the client of 10% declines in the value of their portfolios no longer applies to professional clients following an amendment to Article 62 of the UK version of the MiFID delegated regulation. This change was made in regulation 3(10) of Statutory Instrument 774/2021 which came into effect on 26 July 2021.\nThe measures were put in placeinitiallyto help firms support consumers during market volatility linkedtoCovid-19 and the Brexit transitional period. We said we would show supervisory flexibilitytofirms’ ongoing compliance with the requirement so long as certain criteria were met.\nIn March2021weannounced that we wouldmaintainthe temporary measureswhileHer Majesty’sTreasury (HMT)carried outpolicy work on the future of the requirementas part of itsWholesale MarketsReview (WMR). Findings from theWMRhaveindicatedsupport forremovingor amending therequirement.We arethereforeextending the temporary measures for firmsfor a further 12 months(until 31 December 2022) whilstHMT and/orFCApolicy work ontherequirement’s futureis concluded.\nDuring this period, we won’t take action for breach of COBS 16A.4.3 UK for services offered to retail investors provided that the firm has:\nissued at least one notification in the current reporting period, indicating to retail clients that their portfolio or position has decreased in value by at least 10%\ninformed these clients that they may not receive similar notifications should their portfolio or position values further decrease by 10% in the current reporting period \nreferred these clients to non-personalised communications, perhaps made available on public channels, that outline general updates on market conditions (these could contextualise potential drops in portfolio or position value to help consumers meet their objectives, rather than making impulse decisions about their investments) and \nreminded clients how to check their portfolio value, and how to get in touch with the firm \nFirms must still pay due regards to the interests of their customers and treat them fairly (Principle 6), pay due regard to the information needs of their clients, and communicate information to them in a way which is clear, fair and not misleading (Principle 7). \nIf we have concerns that potential serious misconduct may cause (or has caused) significant harm to consumers, then we will consider the appropriate response, which may include opening an investigation. ",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "type":"text/html",
+                "href":"https://www.fca.org.uk/news/statements/10-per-cent-depreciation-notifications-further-extension-temporary-measures"
+             }
+          ],
+          "visual":{
+             "url":"https://www.fca.org.uk/sites/default/files/images/fca-logo-social-media.jpg"
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/statements/10-per-cent-depreciation-notifications-further-extension-temporary-measures",
+          "unread":true
+       },
+       {
+          "language":"en",
+          "id":"KP9ebFjNEg0Gh/ZwCENKeqkqy2IwjTjFNZ9VCUKck38=_17dd74ba7e3:30fbf38:2c03cbeb",
+          "fingerprint":"9791b9fd",
+          "keywords":[
+             "Statements"
+          ],
+          "originId":"89691",
+          "origin":{
+             "streamId":"feed/https://www.fca.org.uk/news/rss.xml",
+             "title":"Financial Conduct Authority (FCA)",
+             "htmlUrl":"https://www.fca.org.uk/"
+          },
+          "title":"Statement on supervision of commodity derivatives position limits",
+          "author":"FCA",
+          "crawled":1639994599395,
+          "published":1639994599395,
+          "summary":{
+             "content":"In December 2020, we published aSupervisory Statementsetting out our approachto operatingthe MiFID markets regime after the end of the EU withdrawal transition period.\nThisapproachincluded a change tooursupervisory and enforcement actionsforcommodity derivative position limits in the light of evidence of potential constraints on market functioning highlighted during the coronavirus (Covid-19) crisis.Liquidity providers’ability to take on positions was impairedbecause ofposition limits,at a time when liquidity provision was most critical for the market.\nWe said that, until 1 January 2022,we did not intend to take supervisory or enforcement action for positions that exceed limits wherethe position is held bya liquidity providertofulfil its obligations on a trading venue.So far,we have found no evidence of adverse effects from thisrelief.\nTheEconomic Secretary to the Treasury, John Glen MP,gaveaspeechon 23 November 2021,whichsupportedthe continued use ofoursupervisory approach on the position limits regime.\nWe confirm that we will extend this approach while the scope of the regime is being consideredunder theHMTreasury’sWholesale Market Review. Wewill review and reconsiderour approachif there are indications of market abuse.\nWe expect firms to make their own assessment of whether the positions they takearepositions resulting from their actions as a liquidity provider. Firms do not need to notifyus ofthese assessments. However, we mayaska firm to explain its assessment to us at any time, such as whenit breachesa positionlimit.The position should not be any larger than necessary to enable the firm to fulfil its role as a liquidity provider. We will expect a firm to reduce its positions if it reports a breach and it is not able to show that it is engaged in genuine liquidity provision.\nThis statement does not affect the responsibilitiesthatmembers or participants of a trading venueoweunder the venue’sposition management rules.Italsodoes not affect our expectation that firms comply with market conduct obligations, andthatentitiesoperate adequate systems and controls toremain within position limits at all times, unlesswe have grantedawaiveror a firmis able torely on this statement.",
+             "direction":"ltr"
+          },
+          "alternate":[
+             {
+                "href":"https://www.fca.org.uk/news/statements/statement-supervision-commodity-derivatives-position-limits",
+                "type":"text/html"
+             }
+          ],
+          "visual":{
+             "contentType":"image/png",
+             "url":"https://www.fca.org.uk/sites/default/files/media/images/social-card-news.png",
+             "processor":"feedly-nikon-v3.1",
+             "width":3334,
+             "height":1742
+          },
+          "canonicalUrl":"https://www.fca.org.uk/news/statements/statement-supervision-commodity-derivatives-position-limits",
+          "unread":true
+       }
+    ]
+ }

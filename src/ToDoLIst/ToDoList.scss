@@ -1,0 +1,94 @@
+$color-grey: grey;
+$color-blue: #009999;
+$color-white: #fff;
+
+%tplborder{
+    border: 1px solid $color-grey;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+
+.actions{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+form{
+    @extend %tplborder;
+
+    .todo{
+        @extend %tplborder;
+        display: inline-block;
+        cursor: pointer;
+    }
+
+    @extend .actions;
+    margin-bottom: 20px;
+
+    input{
+        padding: 4px 8px;
+        flex-grow: 1;
+        margin-right: 16px;
+    }
+}
+
+.todo {
+    display: flex;
+    flex-direction: column;
+}
+  
+.button-todo{
+    width: 6.7rem;
+    height: 2.9rem;
+    font-size: 16px;
+    background-color: $color-blue;
+    color: $color-white;
+    border-radius: 8px;
+    padding: 8px 16px;
+    margin: 0.4rem;
+    cursor: pointer;
+
+    &:hover{
+        background-color: $color-blue;
+    }
+
+    &:active{
+        background-color: $color-grey;
+    }
+
+    &:focus{
+        outline: 0;
+    }
+}
+.todo-text {
+    font-size: 24px;
+    line-height: 24px;
+    margin-bottom: 26px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+
+    input{
+        padding: 4px;
+    }
+
+    .item-text {
+        display: inline-block;
+        cursor: pointer;
+    }
+      
+    .strike {
+        text-decoration: line-through;
+        background-color: black;
+    }
+}
+  
+.todo-completed {
+    display: flex;
+    margin: 10px 0;
+}
+  
+.todo-actions {
+    @extend .actions;
+}

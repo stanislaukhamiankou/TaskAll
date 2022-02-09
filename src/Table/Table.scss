@@ -1,0 +1,58 @@
+.Table-wrapper {
+    overflow-y: scroll;
+    overflow-x: scroll;
+    height: fit-content;
+    max-height: 86.4vh;  
+    margin: 15px;  
+    width: 75%;
+    margin-left: 20%;
+  }
+  
+  .Table-Table th{
+    position: sticky; 
+    top: 0;
+    z-index: 2;
+    background-color: rgb(173, 170, 170);
+    text-align: center;
+    border: 1.5px solid black;
+  } 
+  
+  .Table-Table th, .Table-Table td { 
+    padding: 15px;
+  }
+  
+  .Table-Table td { 
+    font-size: 15px;
+    border: 1px solid black;
+    text-align:start;
+  }
+  
+  .Table-Table th:nth-child(1){
+    position: sticky; 
+    background-color: rgb(151, 149, 149);
+    top: 0;
+    left: 0;
+    z-index: 3;
+  }
+  
+  .Table-Table th:nth-child(2){
+    position: sticky; 
+    background-color: rgb(151, 149, 149);
+    top: 0;
+    left: 5%;
+    z-index: 3;
+  }
+  
+  .Table-Table td:nth-child(1){
+    position: sticky; 
+    background-color: lightgray;
+    left: 0;
+    z-index: 1;
+  }
+  
+  .Table-Table td:nth-child(2){
+    background-color: lightgray;
+    position: sticky; 
+    left: 5%;
+    z-index: 1;
+  }
