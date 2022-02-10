@@ -4,7 +4,9 @@ import Calculator from './Calculator/Calculator';
 import Todo from './ToDoLIst/Todo';
 import Navbar from './Menu/Navbar';
 import Table from './Table/Table';
-import ListUsers from './ListUsers/ListUsers';
+import ListUsers from './ListUsers/components/ListUsers';
+import { Provider } from 'react-redux';
+import { store } from './ListUsers/redux-toolkit/index';
 
 function App() {
 
@@ -15,7 +17,10 @@ function App() {
         <Route path="/calc" element={<Calculator/>}/>
         <Route path="/todo" element={<Todo/>}/>
         <Route path="/table" element={<Table/>}/>
-        <Route path="/list" element={<ListUsers/>}/>
+          <Route path="/list" element={
+          <Provider store={store}>
+            <ListUsers/>
+          </Provider>}/>
       </Routes>
     </div>
   );
