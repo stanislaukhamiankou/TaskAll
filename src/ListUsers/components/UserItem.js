@@ -24,7 +24,7 @@ export const UserItem = (props) => {
         toggleEditUserForm();
     };
 
-    const listUser = ({ style }) => {
+    /*const listUser = ({ style }) => {
         <div style={style}>
             {user.name}, 
             {user.username}, 
@@ -32,10 +32,7 @@ export const UserItem = (props) => {
             {user.phone}
         </div>
     };
-
-    return (
-        <h3>
-            <List
+    <List
                 className="List"
                 height={15}
                 itemCount={user.length}
@@ -44,7 +41,17 @@ export const UserItem = (props) => {
             >
                 {listUser}
             </List>
-			<button onClick={toggleEditUserForm} className="button-edit">Edit</button>
+	*/		
+
+    return (
+        <h3>
+            <div onClick={() => deleteUser(user)}>
+            {user.name}, 
+            {user.username}, 
+            {user.email}, 
+            {user.phone}
+            </div>
+            <button onClick={toggleEditUserForm} className="button-edit">Edit</button>
             {(isEditFormShown && 
                 <UserForm 
                     newUser={copiedUser} 

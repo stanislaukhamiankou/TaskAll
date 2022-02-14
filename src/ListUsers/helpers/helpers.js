@@ -2,6 +2,7 @@ export const createUser = () => {
     return {
         name: "",
         username: "",
-        email: ""
+        email: "",
+        phone: ""
     };
 };

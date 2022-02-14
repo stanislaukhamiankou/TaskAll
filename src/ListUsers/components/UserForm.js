@@ -10,7 +10,7 @@ export const UserForm = (props) => {
             submitButton: "Add"
         } 
     } = props;
-    const { name, username, email } = newUser;
+    const { name, username, email, phone } = newUser;
     return (
         <div style={{ border: "1px solid black", padding: "10px", width: "30vw" }}>
             <div style={{ textAlign: "center", fontWeight: "bold", marginBottom: "10px" }}>{labels.header} user</div>
@@ -25,6 +25,10 @@ export const UserForm = (props) => {
             <div>
                 <label htmlFor="name">email: </label>
                 <Input type="text" id="email" value={email} onChange={onChange}/>
+            </div>
+            <div>
+                <label htmlFor="name">phone: </label>
+                <Input type="text" id="phone" value={phone} onChange={onChange}/>
             </div>
             <Button onClick={onAddNewUser} className="button-list">{labels.submitButton}</Button>
         </div>
